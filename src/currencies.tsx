@@ -1,4 +1,4 @@
-import { Currencies } from  '../interfaces/currencies'
+import { Currencies } from  './interfaces/currencies'
 
 const Currency: Array<Currencies> = [
     {type: 'pt-br',  currency: "real", separator: ' e ', fraction: 'centavo'}, 
